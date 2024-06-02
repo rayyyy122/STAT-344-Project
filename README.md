@@ -1,1 +1,1 @@
-# STAT-344-Project
+# Insight into divvy bike sharing by sample surveys methods
